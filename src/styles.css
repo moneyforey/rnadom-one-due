@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+div{
+  display:flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: teal;
+  color: antiquewhite;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
